@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm the developper of Wled Mirror, an app that lets you use your screen as an ambilight-like backlight.
-
+I'm the developper of Echo Minecraft Hosting, an easy to use Minecraft server service
 
 # Projects
+WLED-Mirror
